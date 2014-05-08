@@ -1,1 +1,20 @@
-git test
+2d48rtkd
+
+<browse to directory>
+git init
+git remote add origin https:\\github.com\minoad\dst.git
+git add -A
+git commit -m "message"
+
+git push
+
+
+<update with remote source>
+git pull origin master
+
+<create a branch>
+git checkout -b branchname
+
+
+<pull something else>
+git clone https:\\github.com\user\app.git
